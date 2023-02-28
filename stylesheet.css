@@ -1,0 +1,61 @@
+img {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+}
+header {text-align: center;
+         background-color: rgb(67, 64,63);
+         padding-bottom: 30px;
+         padding-top: 20px;
+}
+h1 {color: rgb(190, 180, 178);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+.menu { color:rgb(190, 180, 178);
+    font-size: 30px;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.div1 {border: 1px rgb(190, 180, 178);
+    height: 150px;
+    width: 150px;
+    background-color: rgb(19, 15, 14);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 25px;
+    padding-top: 15px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  article {padding-left: 15%;
+}
+body {background-color: rgb(214, 211, 211);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(0, 0, 0);
+}
+.experience, .skills, .education {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: 35px; color:rgb(255, 255, 255);
+    background-color: rgb(67, 64,63);
+height: fit-content;
+width: fit-content; }
+.div2 {background-color: rgb(158, 158, 158);
+    height: fit-content;
+    width: fit-content;
+    padding-right: 15px;
+    padding-left: 15px;}
+.div3 {background-color: rgb(158, 158, 158);
+    height: fit-content;
+    width: fit-content;
+    padding-right: 15px;
+    padding-left: 15px;}
+.div4 {background-color: rgb(158, 158, 158);
+    height: fit-content;
+    width: fit-content;
+    padding-right: 15px;}
+footer { background-color: rgb(19, 15, 14);
+color: white;
+padding-top: 10px;
+padding-bottom: 10px;
+}
